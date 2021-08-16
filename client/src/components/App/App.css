@@ -1,0 +1,11 @@
+body{
+  padding:0;
+  margin: 0;
+}
+.App{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-image: url("https://wallpaperaccess.com/full/983279.jpg");
+  background-size:cover; 
+}
